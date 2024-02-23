@@ -1,0 +1,2 @@
+I am using a linux ubuntu OS
+And I have extended the storage in server.
